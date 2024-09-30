@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build",
+  "command": "/usr/bin/g++ -DSHADER_DIR=\\\"src/shaders\\\" -I/usr/lib -g -std=gnu++11 -o CMakeFiles/raytracer.dir/src/main.cpp.o -c /home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/main.cpp",
+  "file": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/main.cpp"
+},
+{
+  "directory": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build",
+  "command": "/usr/bin/g++ -DSHADER_DIR=\\\"src/shaders\\\" -I/usr/lib -g -std=gnu++11 -o CMakeFiles/raytracer.dir/src/Shader.cpp.o -c /home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/Shader.cpp",
+  "file": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/Shader.cpp"
+},
+{
+  "directory": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build",
+  "command": "/usr/bin/g++ -DSHADER_DIR=\\\"src/shaders\\\" -I/usr/lib -g -std=gnu++11 -o CMakeFiles/raytracer.dir/src/GLUtils.cpp.o -c /home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/GLUtils.cpp",
+  "file": "/home/gabrielhansmann/Desktop/Selbststudium/raytracer/src/GLUtils.cpp"
+}
+]
