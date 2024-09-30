@@ -19,18 +19,19 @@ This project is a simple raytracer built using C++ and OpenGL with GLFW. You can
 
 1. **Install the required dependencies using the following command (for Ubuntu/Debian)**:
 
-```bash
-sudo apt-get update && sudo apt-get install -y \
-    build-essential \
-    cmake \
-    libgl1-mesa-dev \
-    libglew-dev \
-    libglfw3-dev \
-    libglm-dev \
-    libxrandr-dev \
-    libxinerama-dev \
-    libxcursor-dev \
-    libxi-dev
+    ```bash
+    sudo apt-get update && sudo apt-get install -y \
+        build-essential \
+        cmake \
+        libgl1-mesa-dev \
+        libglew-dev \
+        libglfw3-dev \
+        libglm-dev \
+        libxrandr-dev \
+        libxinerama-dev \
+        libxcursor-dev \
+        libxi-dev
+    ```
 
 2. **Create a Build Directory**:
 
