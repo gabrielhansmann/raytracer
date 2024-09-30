@@ -1,3 +1,0 @@
-/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build/CMakeFiles/raytracer.dir
-/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build/CMakeFiles/edit_cache.dir
-/home/gabrielhansmann/Desktop/Selbststudium/raytracer/build/CMakeFiles/rebuild_cache.dir
