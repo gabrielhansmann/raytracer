@@ -92,5 +92,3 @@ raytracer/
   sudo xhost -local:docker
   ```
 - The Docker image uses software rendering, so performance may be slower than running directly on hardware.
-
-## License
