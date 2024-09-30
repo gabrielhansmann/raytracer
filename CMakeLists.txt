@@ -32,5 +32,7 @@ target_include_directories(raytracer PRIVATE
 )
 
 # Add definitions
-add_definitions(-DSHADER_DIR="src/shaders")
+set(SHADER_DIR ${CMAKE_SOURCE_DIR}/src/shaders)
+add_definitions(-DSHADER_DIR="${SHADER_DIR}")
+
 
