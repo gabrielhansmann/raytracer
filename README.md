@@ -69,7 +69,7 @@ For running the raytracer application in Docker and displaying the output on the
 
 ```bash
 sudo xhost +local:docker
-sudo docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --name raytracer raytracer:1.0
+sudo docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix --device /dev/dri --name raytracer raytracer:1.0
 ```
 
 - **`xhost +local:docker`**: This command allows Docker containers to access the host's X server. You can revoke this permission later using `xhost -local:docker`.
